@@ -1,7 +1,7 @@
 # MET-Opera-Download
 **Python 3** script which downloads MET Opera streams from www.metopera.org 
 
-The free streams are available during the corova virus period
+The free streams are available during the covid-19 quarantine period
 
 You only have to enter a url for the video stream the audio stream and the subtitles stream, you can obtain them from the network tool of the developer options of firefox while you play the stream.
 ![Firefox Network](./Capture.PNG)
