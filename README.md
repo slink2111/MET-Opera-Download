@@ -9,4 +9,6 @@ for the audio and video check for "mp2t" files, the size of each file will show 
 
 Just enter the links from any files of the stream and it start working. Do not forget all 3 file types should have links in rder to work the script.
 
-Prerequests except of a python lib or two, is the ffmpeg.exe you can get it from here. Place the .exe in the same folder as the python script https://www.ffmpeg.org/download.html.
+Prerequests except of a python lib or two, is the ffmpeg.exe you can get it from https://www.ffmpeg.org/download.html. Place the .exe in the same folder as the python script.
+
+also the joiner.bat needs to be in the same dir as the main.py
