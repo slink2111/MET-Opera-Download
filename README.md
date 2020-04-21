@@ -4,6 +4,7 @@
 The free streams are available during the corova virus period
 
 You only have to enter a url for the video stream the audio stream and the subtitles stream, you can obtain them from the network tool of the developer options of firefox while you play the stream.
+![Firefox Network](/Capture.png)
 For the subs you have to look for a "vtt" file 
 for the audio and video check for "mp2t" files, the size of each file will hint you which one is the video (larger ones)
 
