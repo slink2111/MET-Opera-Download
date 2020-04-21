@@ -1,5 +1,5 @@
 # MET-Opera-Download
-Python 3 script which downloads MET Opera streams from metopera.org
+**Python 3** script which downloads MET Opera streams from metopera.org
 
 The free streams are available during the corova virus period
 
